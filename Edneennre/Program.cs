@@ -4,7 +4,9 @@
 ///        V V     A     A  R   R      I     A     A  B    B    I     L         I   
 ///         V      A     A  R    R  IIIIIII  A     A  BBBBB  IIIIIII  LLLLLL IIIIIII
 ///     
+#region variabili
 
+#endregion
 
 
 
